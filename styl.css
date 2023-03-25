@@ -1,0 +1,43 @@
+
+body {
+    background-color: darkcyan;
+    margin: 20%;
+}
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+    font-size: 7vh;
+    color:aliceblue;
+}
+img{
+    display: block;
+    width: 20%;
+    align-items: center;
+}
+#caption{
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+div #SV-data{
+   background-color: darkolivegreen;
+   padding: 25px 25px;
+   box-shadow:20px 20px 20px #585958;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+   margin:11px ;
+   margin-top: 50px ;
+ }
+ h1.title-SV{
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-shadow:5px 5px 10px cadetblue;
+    color:black;
+
+ }
+ #SV_link{
+    text-decoration: none;
+    color: black;
+}
